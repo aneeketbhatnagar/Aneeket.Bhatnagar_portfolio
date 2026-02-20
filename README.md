@@ -1,10 +1,10 @@
 # Aneeket.Bhatnagar_portfolio
-12+ years Data &amp; Automation Professional specializing in Billing Analytics, Python Automation, SQL, Power BI, and Agile Product Ownership. Portfolio showcases workflow automation, interactive dashboards with RLS, and analytics projects driving efficiency and data-driven decisions.
+13+ years Data &amp; Automation Professional specializing in Billing Analytics, Python Automation, SQL, Power BI, and Agile Product Ownership. Portfolio showcases workflow automation, interactive dashboards with RLS, and analytics projects driving efficiency and data-driven decisions.
 
 
 # Aneeket Bhatnagar - Analytics & Automation Portfolio
 
-12+ years experienced professional in **Data Analytics**, **Power BI**, **Python Automation**, **SQL**, and **Agile/Product Thinking**.
+13+ years experienced professional in **Data Analytics**, **Power BI**, **Python Automation**, **SQL**, and **Agile/Product Thinking**.
 
 Specialized in:
 - Building enterprise-grade Power BI dashboards with RLS & DAX
